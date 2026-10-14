@@ -4,5 +4,5 @@
   "private": true,
   "main": "server.js",
   "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=16" }
+  "engines": { "node": ">=18" }
 }
